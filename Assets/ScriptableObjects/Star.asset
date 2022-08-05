@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8c888a9ce7049dd96ebc8c3599d979, type: 3}
+  m_Name: Star
+  m_EditorClassIdentifier: 
+  cursorType: 1
+  textureArray:
+  - {fileID: 2800000, guid: 37de60a4517854f5d82130be4387a297, type: 3}
+  - {fileID: 2800000, guid: 4d2b067cb04ba470faae308bfa5443f2, type: 3}
+  - {fileID: 2800000, guid: 83ed545b2d2b54e1eac57f44c0ba3bff, type: 3}
+  frameRate: 0.05
+  offset: {x: 0, y: 0}
